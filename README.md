@@ -1,7 +1,7 @@
 # Password-Generator
 
-A simple, Offline, Strong Password Generator GUI Written in Python<br>
-Complied with PyInstaller
+A simple, Offline, Strong Password Generator GUI for Windows<br>
+Written in Python, Complied with PyInstaller
 
 <center>
   <img src="pwgen.png" width=500>
