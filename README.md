@@ -1,6 +1,6 @@
 # Password-Generator
 
-A simple Offline Strong Password Generator GUI Written in Python
+A simple Offline Strong Password Generator GUI Written in Python<br>
 Complied with PyInstaller
 
 <center>
